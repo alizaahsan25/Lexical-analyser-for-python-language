@@ -18,7 +18,7 @@ if age >= 18:
     print("Adult")
 ```
 #### Run:
-python analyze.py
+python analyze.py  
 Enter Python filename: test.py
 
 #### Output:  
