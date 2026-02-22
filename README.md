@@ -5,7 +5,7 @@ A lexical analyzer for Python 3, written in Python. It reads a .py file and brea
 It detects illegal characters, unmatched strings, and identifiers or numbers exceeding 255 characters, reporting the exact line and column of every token and error.  
 
 ## How to run this project:
-Download all the files from this project and save them in a specific folder. Open that folder is vs code. Open terminal in that folder and bash `pyhton analyze.py` and then it will ask the file name that has the source code to be analyzed. Enter `test.py` and laxical analysis will create tokens of the source code written in test.py .
+Download all the files from this project and save them in a specific folder. Open that folder is VS Code. Open terminal in that folder and bash `python analyze.py` and then it will ask the file name that has the source code to be analyzed. Enter `test.py` and laxical analysis will create tokens of the source code written in test.py .
 
 ## What it does:
 The analyzer reads any Python .py file and breaks every line of code into classified tokens. Each token gets a type, its exact value, and its line and column number.
